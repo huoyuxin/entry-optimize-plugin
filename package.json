@@ -1,0 +1,11 @@
+{
+  "name": "entry-optimize-plugin",
+  "version": "1.0.0",
+  "description": "\"optimize entry build speed of webpack\"",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dengzhizhi",
+  "license": "ISC"
+}
